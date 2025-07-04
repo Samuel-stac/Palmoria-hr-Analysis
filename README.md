@@ -59,6 +59,22 @@ Management needs a clear view of:
 ✅ Employees rated “Very Good” get the highest bonuses, totaling [$167.92bn company-wide payout]  
 
 
+## 📌 **Key Insights Summary**
+
+| # | Question | Key Insight |
+|---|-----------------------------|---------------------------------------------------------------|
+| 1 | Gender Distribution | The workforce is [e.g. 60% Male, 38% Female, 2% Undisclosed]. |
+| 2 | Gender by Region | Some regions have gender imbalance — [e.g. Kaduna is 75% male]. |
+| 3 | Gender by Department | Certain departments like [e.g. Manufacturing] are heavily male-dominated. |
+| 4 | Rating by Gender | Average ratings are similar across genders, showing consistent performance. |
+| 5 | Salary by Gender | There is a gender pay gap of [e.g. 10–15%] in [specific departments]. |
+| 6 | Minimum Wage Compliance | [e.g. 18 employees earn below $90,000, mostly in Sales & Operations]. |
+| 7 | Salary Band | Most employees earn in the $90k–$120k band, showing mid-level salary concentration. |
+| 8 | Bonus Allocation | High performers get larger bonuses; [e.g. ‘Very Good’ performers receive 20% extra]. |
+| 9 | Total Bonus Payout | Total company-wide bonus payout is $[XYZ] for this cycle. |
+| 10 | Payout by Region | [e.g. North region receives 40% of total payouts due to high headcount]. |
+| 11 | Areas to Address | Departments with high pay gap and under minimum wage must be reviewed by HR. |
+
 ---
 
 ## 📁 **Files**
@@ -68,7 +84,18 @@ Management needs a clear view of:
 
 ---
 
-## 🗂️ **Status**
+## 🚀 **Project Status**
 
-✅ Completed as part of my Data Analysis Capstone  
-✅ Tools: Power BI (Power Query, DAX, Visualizations)
+✅ Completed as part of my Data Analysis Capstone.  
+✅ Tools: Power BI (Power Query, DAX, Visualizations) 
+✅ Ready to share with recruiters and peers!
+
+---
+
+## 👤 **Author**
+
+**Samuel Stac**  
+Aspiring Data Analyst
+Email : samuel87anyebe@gmail.com
+---
+

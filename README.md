@@ -71,7 +71,7 @@ Management needs a clear view of:
 | 6 | Minimum Wage Compliance | [e.g. 18 employees earn below $90,000, mostly in Sales & Operations]. |
 | 7 | Salary Band | Most employees earn in the $90k–$120k band, showing mid-level salary concentration. |
 | 8 | Bonus Allocation | High performers get larger bonuses; [e.g. ‘Very Good’ performers receive 20% extra]. |
-| 9 | Total Bonus Payout | Total company-wide bonus payout is $[XYZ] for this cycle. |
+| 9 | Total Bonus Payout | Total company-wide bonus payout is $2.00M for this cycle. |
 | 10 | Payout by Region | [e.g. North region receives 40% of total payouts due to high headcount]. |
 | 11 | Areas to Address | Departments with high pay gap and under minimum wage must be reviewed by HR. |
 

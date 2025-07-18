@@ -78,7 +78,7 @@ Management needs a clear view of:
 ---
 
 ## 📁 **Files**
-<img width="697" height="401" alt="S11" src="https://github.com/user-attachments/assets/d4078f08-70a5-4f43-b7e5-ca4421b09467" />
+<img width="1000" height="401" alt="S11" src="https://github.com/user-attachments/assets/d4078f08-70a5-4f43-b7e5-ca4421b09467" />
 
 ![Project Dashboard 1](https://github.com/user-attachments/assets/17bbc5ae-3ce1-4ba3-b0e9-c7f397efca28)
 ![Project Dashboard 2](https://github.com/user-attachments/assets/0c4a8263-828f-45b6-b7cf-2098b10d4b96)
